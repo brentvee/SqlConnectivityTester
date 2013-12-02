@@ -1,6 +1,8 @@
 SqlConnectivityTester
 =====================
 
+Platform : .Net 4.5
+
 This handy little windows application will help you test a connection to any MSSql instance.
 
 I often connected to a windows server which had only the bare minimum software installed. 
